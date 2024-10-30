@@ -16,6 +16,7 @@ const footer =()=>{
          
         </div>
        
+      
      <div className="col mb-3 mt-4 ms-lg-5">
           <h5 className="text-warning">More on The Blog</h5>
         
